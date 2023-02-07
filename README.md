@@ -7,7 +7,7 @@ This project consists of a suite of functional, end-to-end, and visual UI web au
 I created this to demonstrate the capabilities of Playwright for UI web automation testing. If you are learning Playwright and writing scripts in JavaScript, you can use this repository as a model for your own tests.
 
 
-<img src="mb-playwright-saucedemo1.png" alt="Sauce Demo Tests Functional" width="1000" height="625" title="Sauce Demo: Functional UI Tests">
+<img src="mb-playwright-saucedemo1.png" alt="Sauce Demo Tests Functional" width="750" height="469" title="Sauce Demo: Functional UI Tests">
 
 ![Sauce Demo Tests VisualUI](mb-playwright-saucedemo2.png "Sauce Demo: Visual UI Tests")
 
