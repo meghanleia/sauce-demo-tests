@@ -9,11 +9,11 @@ I created this to demonstrate the capabilities of Playwright for UI web automati
 
 <img src="mb-playwright-saucedemo1.png" alt="Sauce Demo Tests Functional" width="750" height="469" title="Sauce Demo: Functional UI Tests">
 
-![Sauce Demo Tests VisualUI](mb-playwright-saucedemo2.png "Sauce Demo: Visual UI Tests")
+<img src="mb-playwright-saucedemo2.png" alt="Sauce Demo Tests VisualUI" width="750" height="469" title="Sauce Demo: Visual UI Tests">
 
-![Sauce Demo Tests Passed](mb-playwright-saucedemo3.png "Sauce Demo Tests: Passed")
+<img src="mb-playwright-saucedemo3.png" alt="Sauce Demo Tests Passed" width="750" height="469" title="Sauce Demo Tests: Passed">
 
-![Sauce Demo Tests Report](mb-playwright-saucedemo4.png "Sauce Demo Tests: Report")
+<img src="mb-playwright-saucedemo4.png" alt="Sauce Demo Tests Report" width="750" height="469" title="Sauce Demo Tests: Report">
 
 ## Demo
 A short demo of these tests can be viewed [here](https://youtu.be/gJvFYZlOESA).
