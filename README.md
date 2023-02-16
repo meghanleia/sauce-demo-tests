@@ -20,10 +20,14 @@ A short demo of these tests can be viewed [here](https://youtu.be/gJvFYZlOESA).
 
 ## How to Use
 
-From the playwright folder, run the following:
-
+From the playwright folder, use the following command to run the tests in web browsers. Tests will run parallel on Chrome, Firefox, and Safari: 
 ```
-npx playwright test
+npm run testWeb
+```
+
+To run the tests on mobile browsers, use the following command. Tests will run parallel on Mobile Chrome and Mobile Safari browsers: 
+```
+npm run testMobile
 ```
 
 If you don't have node.js installed, you will need to do that first. You may also be prompted to install Playwright.

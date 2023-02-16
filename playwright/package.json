@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "testWeb" : "npx playwright test --project='chromium' --project='firefox' --project='webkit'", 
+    "testMobile" : "npx playwright test --project='Mobile Chrome' --project='Mobile Safari'"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
