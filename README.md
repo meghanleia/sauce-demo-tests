@@ -20,7 +20,7 @@ A short demo of these tests can be viewed [here](https://youtu.be/gJvFYZlOESA).
 
 ## How to Use
 
-From the playwright folder, use the following command to run the tests in web browsers. Tests will run parallel on Chrome, Firefox, and Safari: 
+From the playwright folder, use the following command to run the tests on web browsers. Tests will run parallel on Chrome, Firefox, and Safari: 
 ```
 npm run testWeb
 ```
